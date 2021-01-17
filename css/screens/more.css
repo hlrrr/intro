@@ -1,0 +1,24 @@
+
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.more-suggestions {
+  border-top: rgb( 0,  0,  0, 0.3) 1px solid;
+  height: 500px;
+  overflow-y: scroll;
+  margin-top: 50px;
+  padding-top: 40px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 30px;
+}
+
+.more-suggestions p{
+  margin-bottom: 20px;  
+}
+
+.more-suggestions p:nth-child(2n-1){
+  background-color: whitesmoke;
+}
